@@ -1,0 +1,14 @@
+#This is a test document
+
+require('zoo')
+require('readxl')
+require('foreign')
+require('dplyr')
+require('ggplot2')
+require('tidyr')
+require('knitr')
+require('readxl')
+
+
+
+
